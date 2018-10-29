@@ -1,4 +1,4 @@
-# padding-oracle
+# Padding Oracle Helper
 Helps you pulling off a padding oracle attack. I built this to solve the *Converter* challenge of P.W.N. CTF 2018.
 
 With this tool you can:
